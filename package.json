@@ -1,0 +1,20 @@
+{
+  "name": "tetris",
+  "type": "module",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/pc619/fake-2048.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://https://github.com/pc619/tetris-game/issues"
+  },
+  "homepage": "https:/https://github.com/pc619/tetris-game#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "normalize.css": "^8.0.1"
+  }
+}
